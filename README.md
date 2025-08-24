@@ -8,11 +8,11 @@ program calculates the purchase frequency of each unique item and stores this da
 interface for the user to perform these actions:
 
 1. Search an item:
-  - This is to see how many times it was sold
+    - This is to see how many times it was sold
 2. Display a list:
-  - This is to see a list of distinct items sold and their frequency
+    - This is to see a list of distinct items sold and their frequency
 3. Display a histogram:
-  - This is to see a graphical representation of the frequency of each item sold
+    - This is to see a graphical representation of the frequency of each item sold
 
 The application also creates a backup of the frequency data in a file named `frequency.dat`.
 This tool solves the business problem of tracking item popularity, which is crucial for making informed decisions about inventory management and marketing.
